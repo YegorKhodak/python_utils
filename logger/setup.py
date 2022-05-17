@@ -9,6 +9,6 @@ setuptools.setup(
     version="0.0.1",
     author="YegorKhodak",
     author_email="yegorkhodak@gmail.com",
-    packages=["elastic_utils"],
+    packages=["logger_utils"],
     install_requires=requirements,
 )
